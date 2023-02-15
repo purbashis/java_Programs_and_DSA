@@ -24,4 +24,18 @@ public class ReverseString {
          return r;
         }
 
+        // 2nd approach  by using character  array .
+        static  String Rev2(String str){
+        char[] a= str.toCharArray();
+            String r="";
+
+        for (int i= a.length -1 ; i>=0;i--)
+        {
+            r= r+a[i];
+
+        }
+
+              return r;
+        }
+
 }
