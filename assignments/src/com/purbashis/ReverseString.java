@@ -9,7 +9,7 @@ public class ReverseString {
         System.out.println("Enter the String ");
 
         String input= in.nextLine();
-        String ans = Rev(input);
+        String ans = Rev3(input);
         System.out.println("after reverse of the string :"+ ans);
 
 
@@ -36,6 +36,15 @@ public class ReverseString {
         }
 
               return r;
+        }
+
+        //3rd approach by using String Buffer class
+        static  String Rev3(String str){
+        StringBuilder sb = new StringBuilder(str);
+        String ans = String.valueOf(sb.reverse());
+        return ans;
+
+
         }
 
 }
