@@ -28,15 +28,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.OrderAgnosticsBS">
+}</component>
+  <component name="RunManager" selected="Application.Greatest_letter">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Purbashis.BinarySearch" />
+      <module name="Binaray_search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Purbashis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greatest_letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Purbashis.Greatest_letter" />
       <module name="Binaray_search" />
       <extension name="coverage">
         <pattern>
@@ -63,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greatest_letter" />
         <item itemvalue="Application.OrderAgnosticsBS" />
         <item itemvalue="Application.BinarySearch" />
       </list>
