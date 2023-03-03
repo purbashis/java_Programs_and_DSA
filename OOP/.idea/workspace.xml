@@ -39,7 +39,7 @@
       <recent name="com.OOPs_Constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Polymorphism_C_T">
+  <component name="RunManager" selected="Application.Polymorphism_R_T">
     <configuration name="C_cons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.OOPs_Constructor.C_cons" />
       <module name="OOP" />
@@ -49,13 +49,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS" />
-      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Polymorphism_R_T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOPs_Poly.Polymorphism_R_T" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OOPs_Poly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.purbashis.OOPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.purbashis.OOPS" />
       <module name="OOP" />
@@ -101,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polymorphism_R_T" />
         <item itemvalue="Application.Polymorphism_C_T" />
         <item itemvalue="Application.C_cons" />
         <item itemvalue="Application.P_cons" />
         <item itemvalue="Application.com.purbashis.OOPS" />
-        <item itemvalue="Application.OOPS" />
       </list>
     </recent_temporary>
   </component>
