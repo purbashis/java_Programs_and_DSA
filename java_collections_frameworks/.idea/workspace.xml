@@ -34,9 +34,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Stack_">
+  <component name="RunManager" selected="Application.Queue_">
     <configuration name="Array_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Array_list" />
+      <module name="java_collections_frameworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaCollection_framewors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Queue_" />
       <module name="java_collections_frameworks" />
       <extension name="coverage">
         <pattern>
@@ -76,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queue_" />
         <item itemvalue="Application.Stack_" />
         <item itemvalue="Application.UserInputArrayList" />
         <item itemvalue="Application.Array_list" />
