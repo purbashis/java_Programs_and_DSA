@@ -34,9 +34,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Custom_set_for_Student">
-    <configuration name="Array_Dqueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Array_Dqueue" />
+  <component name="RunManager" selected="Application.Tree_map_">
+    <configuration name="Custom_set_for_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Custom_set_for_Student" />
       <module name="java_collections_frameworks" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Custom_set_for_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Custom_set_for_Student" />
+    <configuration name="Hash_Map_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Hash_Map_" />
       <module name="java_collections_frameworks" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Set_" />
+    <configuration name="Tree_map_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Tree_map_" />
       <module name="java_collections_frameworks" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tree_map_" />
+        <item itemvalue="Application.Hash_Map_" />
         <item itemvalue="Application.Custom_set_for_Student" />
         <item itemvalue="Application.Tree_set_" />
         <item itemvalue="Application.Linked_hash_set_" />
-        <item itemvalue="Application.Set_" />
-        <item itemvalue="Application.Array_Dqueue" />
       </list>
     </recent_temporary>
   </component>
