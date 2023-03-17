@@ -3,7 +3,7 @@ package com.JavaCollection_framewors;
 import java.util.Objects;
 //In Java collection framework, a custom Set is a user-defined Set implementation that provides a custom logic
 //        for handling element insertion, removal, and searching operations.
-public class Custom_set_Student {
+public class Custom_set_Student  implements Comparable<Custom_set_Student>{
     String name ;
     int roll;
 
@@ -33,5 +33,10 @@ public class Custom_set_Student {
     @Override
     public int hashCode() {
         return Objects.hash(roll);
+    }
+
+    @Override
+    public int compareTo(Custom_set_Student that) {
+        return this.roll- that.roll;
     }
 }
