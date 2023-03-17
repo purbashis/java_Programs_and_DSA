@@ -34,9 +34,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Set_">
+  <component name="RunManager" selected="Application.Linked_hash_set_">
     <configuration name="Array_Dqueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Array_Dqueue" />
+      <module name="java_collections_frameworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaCollection_framewors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Linked_hash_set_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Linked_hash_set_" />
       <module name="java_collections_frameworks" />
       <extension name="coverage">
         <pattern>
@@ -74,19 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Queue_" />
-      <module name="java_collections_frameworks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JavaCollection_framewors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Set_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Set_" />
       <module name="java_collections_frameworks" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Linked_hash_set_" />
         <item itemvalue="Application.Set_" />
         <item itemvalue="Application.Array_Dqueue" />
         <item itemvalue="Application.Priority_Queue" />
         <item itemvalue="Application.Linked_list" />
-        <item itemvalue="Application.Queue_" />
       </list>
     </recent_temporary>
   </component>
