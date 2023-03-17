@@ -34,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array_Dqueue">
+  <component name="RunManager" selected="Application.Set_">
     <configuration name="Array_Dqueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Array_Dqueue" />
       <module name="java_collections_frameworks" />
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Stack_" />
+    <configuration name="Set_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Set_" />
       <module name="java_collections_frameworks" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Set_" />
         <item itemvalue="Application.Array_Dqueue" />
         <item itemvalue="Application.Priority_Queue" />
         <item itemvalue="Application.Linked_list" />
         <item itemvalue="Application.Queue_" />
-        <item itemvalue="Application.Stack_" />
       </list>
     </recent_temporary>
   </component>
