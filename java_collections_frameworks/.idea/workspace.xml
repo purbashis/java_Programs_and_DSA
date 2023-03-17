@@ -34,7 +34,33 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tree_map_">
+  <component name="RunManager" selected="Application.Collection_class__">
+    <configuration name="Array_class_prem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Array_class_prem" />
+      <module name="java_collections_frameworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaCollection_framewors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collection_class__" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Collection_class__" />
+      <module name="java_collections_frameworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaCollection_framewors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Custom_set_for_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Custom_set_for_Student" />
       <module name="java_collections_frameworks" />
@@ -61,19 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linked_hash_set_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Linked_hash_set_" />
-      <module name="java_collections_frameworks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JavaCollection_framewors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tree_map_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Tree_map_" />
       <module name="java_collections_frameworks" />
@@ -87,26 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree_set_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Tree_set_" />
-      <module name="java_collections_frameworks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JavaCollection_framewors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Collection_class__" />
+        <item itemvalue="Application.Array_class_prem" />
         <item itemvalue="Application.Tree_map_" />
         <item itemvalue="Application.Hash_Map_" />
         <item itemvalue="Application.Custom_set_for_Student" />
-        <item itemvalue="Application.Tree_set_" />
-        <item itemvalue="Application.Linked_hash_set_" />
       </list>
     </recent_temporary>
   </component>
