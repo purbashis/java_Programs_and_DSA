@@ -13,7 +13,7 @@ public class Linked_hash_set_ {
     public static void main(String[] args) {
         Set <Integer> ls= new LinkedHashSet<>();
 
-        
+
         ls.add(23);
         ls.add(898);
         ls.add(123);
