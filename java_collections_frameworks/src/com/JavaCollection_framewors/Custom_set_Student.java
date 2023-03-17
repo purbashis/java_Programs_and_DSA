@@ -1,7 +1,8 @@
 package com.JavaCollection_framewors;
 
 import java.util.Objects;
-
+//In Java collection framework, a custom Set is a user-defined Set implementation that provides a custom logic
+//        for handling element insertion, removal, and searching operations.
 public class Custom_set_Student {
     String name ;
     int roll;
