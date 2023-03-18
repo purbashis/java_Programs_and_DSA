@@ -34,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Collection_class__">
+  <component name="RunManager" selected="Application.Custom_set_for_Student">
     <configuration name="Array_class_prem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.JavaCollection_framewors.Array_class_prem" />
       <module name="java_collections_frameworks" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Custom_set_for_Student" />
         <item itemvalue="Application.Collection_class__" />
         <item itemvalue="Application.Array_class_prem" />
         <item itemvalue="Application.Tree_map_" />
         <item itemvalue="Application.Hash_Map_" />
-        <item itemvalue="Application.Custom_set_for_Student" />
       </list>
     </recent_temporary>
   </component>
